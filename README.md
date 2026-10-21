@@ -1,4 +1,7 @@
-<img src="./assets/profile-v10/header.svg" width="100%" alt="Daesan Jang — Backend Developer. Java, Spring Boot, AWS." />
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/profile-v10/header-mobile.svg" />
+  <img src="./assets/profile-v10/header.svg" width="100%" alt="Daesan Jang — Backend Developer. Java, Spring Boot, AWS." />
+</picture>
 
 <a href="https://velog.io/@diqkraud/posts"><img src="./assets/profile-v10/velog.svg" width="142" height="38" alt="Velog 기술 기록" /></a>
 
