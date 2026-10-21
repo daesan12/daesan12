@@ -49,8 +49,8 @@
     <img src="./assets/profile-v15/familink.svg" alt="패밀링크(Familink): 가족의 일상 공유와 AI 안부 통화 서비스. 백엔드 및 인프라 담당." width="400" />
   </picture>
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile-v18/jaltashu-mobile.svg" />
-    <img src="./assets/profile-v18/jaltashu.svg" alt="잘타슈(JalTaShu): 대전 공공자전거 현황과 도착 시점 예측 서비스. 인프라 담당." width="400" />
+    <source media="(max-width: 600px)" srcset="./assets/profile-v19/jaltashu-mobile.png" />
+    <img src="./assets/profile-v19/jaltashu.png" alt="잘타슈(JalTaShu): 대전 공공자전거 현황과 도착 시점 예측 서비스. 인프라 담당." width="400" />
   </picture>
 </p>
 
