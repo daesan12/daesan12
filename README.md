@@ -9,31 +9,35 @@
 
 ### Tech Stack
 
-**Language**
+<p>
+  <strong>Language</strong><br />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" height="28" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28" />
+</p>
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" height="28" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28" />
+<p>
+  <strong>Backend</strong><br />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" height="28" />
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" alt="JPA" height="28" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" height="28" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge" alt="Django REST Framework" height="28" />
+</p>
 
-**Backend**
+<p>
+  <strong>Database</strong><br />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="28" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="28" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" height="28" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&amp;logo=flyway&amp;logoColor=white" alt="Flyway" height="28" />
+</p>
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" height="28" />
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" alt="JPA" height="28" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" height="28" />
-<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge" alt="Django REST Framework" height="28" />
-
-**Database**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="28" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="28" />
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" height="28" />
-<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&amp;logo=flyway&amp;logoColor=white" alt="Flyway" height="28" />
-
-**Cloud / DevOps**
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" height="28" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" height="28" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" height="28" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" height="28" />
+<p>
+  <strong>Cloud / DevOps</strong><br />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" height="28" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" height="28" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" height="28" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" height="28" />
+</p>
 
 ---
 
