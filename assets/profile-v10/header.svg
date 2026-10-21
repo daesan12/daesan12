@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="250" viewBox="0 0 1120 250" role="img" aria-labelledby="title desc">
+<title id="title">Daesan Jang, Backend Developer</title>
+<desc id="desc">A navy header with quiet animated blue arcs. Java, Spring Boot, AWS.</desc>
+<defs>
+ <linearGradient id="field" x1="0" y1="0" x2="1" y2=".7"><stop stop-color="#142b4c"/><stop offset="1" stop-color="#193f6b"/></linearGradient>
+ <linearGradient id="arc" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4c8ce0" stop-opacity=".05"/><stop offset=".65" stop-color="#6da9f1" stop-opacity=".55"/><stop offset="1" stop-color="#4c8ce0" stop-opacity=".04"/></linearGradient>
+ <clipPath id="shape"><path d="M0 0H1120V211C934 246 737 248 540 229C351 211 181 230 0 216Z"/></clipPath>
+</defs>
+<style>
+ .trace{stroke-dasharray:70 650;animation:travel 12s linear infinite}
+ .second{animation-delay:-6s}
+ @keyframes travel{to{stroke-dashoffset:-720}}
+ @media(prefers-reduced-motion:reduce){.trace{animation:none}}
+</style>
+<g clip-path="url(#shape)">
+ <path fill="url(#field)" d="M0 0H1120V250H0Z"/>
+ <g fill="none" stroke="url(#arc)" stroke-width="1.2">
+  <path d="M748 -75C657 34 698 158 832 197S1087 204 1195 281"/>
+  <path d="M802 -74C711 35 752 159 886 198S1141 205 1249 282"/>
+  <path d="M856 -73C765 36 806 160 940 199S1195 206 1303 283"/>
+  <path d="M910 -72C819 37 860 161 994 200S1249 207 1357 284"/>
+ </g>
+ <g fill="none" stroke="#91c3ff" stroke-width="2" stroke-linecap="round">
+  <path class="trace" opacity=".7" d="M802 -74C711 35 752 159 886 198S1141 205 1249 282"/>
+  <path class="trace second" opacity=".4" d="M910 -72C819 37 860 161 994 200S1249 207 1357 284"/>
+ </g>
+ <text x="55" y="102" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.6">Daesan Jang</text>
+ <text x="57" y="143" fill="#c1d4ef" font-family="Arial,Helvetica,sans-serif" font-size="24">Backend Developer</text>
+ <text x="57" y="183" fill="#8fb8e6" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing=".3">Java / Spring Boot / AWS</text>
+</g>
+</svg>
