@@ -59,5 +59,9 @@
 
 #### Other Project
 
-**[HealthFit](https://github.com/daesan12/healthfit-backend)** — 식단과 운동 추천, 기록 및 공유 서비스  
-2인 팀의 백엔드 담당으로 Django REST Framework 기반 인증, 식단, 운동과 커뮤니티 API를 구현했습니다.
+**[HealthFit](https://github.com/daesan12/healthfit-backend) — 개인 맞춤 식단·운동 관리 서비스**
+
+사용자의 신체 정보와 목표에 맞는 식단·운동 루틴을 **AI로 추천**하고, 식단과 운동 기록을 관리·공유하는 서비스입니다.
+
+2인 팀에서 백엔드를 맡아 Django REST Framework로 JWT 인증과 식단·운동·커뮤니티 API를 구현했습니다. **AI 추천 결과를 저장하는 로직**도 담당했습니다.
+
