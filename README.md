@@ -3,63 +3,57 @@
   <img src="./assets/profile-v11/header.svg" width="100%" alt="Daesan Jang — Backend Developer. Java, Spring Boot, AWS." />
 </picture>
 
-<a href="https://velog.io/@diqkraud/posts"><img src="./assets/profile-v10/velog.svg" width="142" height="38" alt="Velog 기술 기록" /></a>
-
-## Projects
-
-### 패밀링크 (Familink)
-
-백엔드 및 인프라  
-가족의 일상 공유, 일정과 AI 안부 통화를 연결한 모바일 서비스입니다.
-
-- 그룹과 피드 API, DB 규칙, S3 직접 업로드 API를 구현했습니다.
-- AWS 운영 환경과 Jenkins 배포 절차를 구성했습니다.
-
-### 잘타슈 (JalTaShu)
-
-인프라  
-대전 공공자전거의 현재 현황과 도착 시점 예측을 제공하는 서비스입니다.
-
-- 팀 모듈의 서버 실행 환경과 Blue/Green 배포를 구성했습니다.
-- Jenkins 자격증명 복구와 MySQL 백업 및 격리 복원을 검증했습니다.
-
-### [HealthFit](https://github.com/daesan12/healthfit-backend)
-
-백엔드, 2인 팀  
-식단과 운동을 추천하고 기록을 공유하는 건강관리 서비스입니다.
-
-- Django REST Framework로 인증, 식단, 운동과 커뮤니티 API를 구현했습니다.
-
-## Tech stack
-
-<p>
-  <strong>Language</strong><br />
-  <img src="./assets/profile-v11/java.svg" width="90" height="32" alt="Java" />
-  <img src="./assets/profile-v11/python.svg" width="106" height="32" alt="Python" />
+<p align="center">
+  <a href="https://velog.io/@diqkraud/posts"><img src="https://img.shields.io/badge/Tech%20Blog-Velog-20C997?style=for-the-badge&amp;logo=velog&amp;logoColor=white" alt="Velog 기술 블로그" height="28" /></a>
 </p>
 
-<p>
-  <strong>Backend</strong><br />
-  <img src="./assets/profile-v11/spring-boot.svg" width="139" height="32" alt="Spring Boot" />
-  <img src="./assets/profile-v11/jpa.svg" width="61" height="32" alt="JPA" />
-  <img src="./assets/profile-v11/django.svg" width="106" height="32" alt="Django" />
-  <img src="./assets/profile-v11/drf.svg" width="251" height="32" alt="Django REST Framework" />
-</p>
+### Tech Stack
+
+**Language**
+
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" height="28" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" height="28" />
+
+**Backend**
+
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot" height="28" />
+<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge" alt="JPA" height="28" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django" height="28" />
+<img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge" alt="Django REST Framework" height="28" />
+
+**Database**
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" height="28" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" height="28" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" alt="SQL" height="28" />
+<img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&amp;logo=flyway&amp;logoColor=white" alt="Flyway" height="28" />
+
+**Cloud / DevOps**
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&amp;logo=amazonwebservices&amp;logoColor=white" alt="AWS" height="28" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" height="28" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white" alt="Jenkins" height="28" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" height="28" />
+
+---
+
+### Projects
 
 <p>
-  <strong>Database</strong><br />
-  <img src="./assets/profile-v11/postgresql.svg" width="138" height="32" alt="PostgreSQL" />
-  <img src="./assets/profile-v11/mysql.svg" width="106" height="32" alt="MySQL" />
-  <img src="./assets/profile-v11/sql.svg" width="61" height="32" alt="SQL" />
-  <img src="./assets/profile-v11/flyway.svg" width="109" height="32" alt="Flyway" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-v12/familink-mobile.svg" />
+    <img src="./assets/profile-v12/familink.svg" alt="패밀링크(Familink): 가족의 일상 공유와 AI 안부 통화 서비스. 백엔드 및 인프라 담당." width="400" />
+  </picture>
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile-v12/jaltashu-mobile.svg" />
+    <img src="./assets/profile-v12/jaltashu.svg" alt="잘타슈(JalTaShu): 대전 공공자전거 현황과 도착 시점 예측 서비스. 인프라 담당." width="400" />
+  </picture>
 </p>
 
-<p>
-  <strong>Cloud / DevOps</strong><br />
-  <img src="./assets/profile-v11/aws.svg" width="92" height="32" alt="AWS" />
-  <img src="./assets/profile-v11/docker.svg" width="109" height="32" alt="Docker" />
-  <img src="./assets/profile-v11/jenkins.svg" width="115" height="32" alt="Jenkins" />
-  <img src="./assets/profile-v11/nginx.svg" width="103" height="32" alt="Nginx" />
-</p>
+- **패밀링크:** 그룹과 피드 API, DB 규칙, S3 직접 업로드 API를 구현하고 AWS 운영 환경과 Jenkins 배포 절차를 구성했습니다.
+- **잘타슈:** 팀 모듈의 실행 환경과 Blue/Green 배포를 구성하고, Jenkins 자격증명 복구와 MySQL 백업 및 격리 복원을 검증했습니다.
 
-<!-- Technology artwork: Devicon (MIT) and Simple Icons (CC0). License files: assets/profile-v11/. JPA and SQL are text badges, not substitute product logos. -->
+#### Other Project
+
+**[HealthFit](https://github.com/daesan12/healthfit-backend)** — 식단과 운동 추천, 기록 및 공유 서비스  
+2인 팀의 백엔드 담당으로 Django REST Framework 기반 인증, 식단, 운동과 커뮤니티 API를 구현했습니다.
