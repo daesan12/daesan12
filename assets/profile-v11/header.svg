@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="260" viewBox="0 0 1120 260" role="img" aria-labelledby="title desc">
+<title id="title">Daesan Jang, Backend Developer</title>
+<desc id="desc">Java, Spring Boot, AWS. A custom blue header with a flowing lower edge.</desc>
+<defs>
+ <linearGradient id="field" x1="0" y1="0" x2="1" y2=".65"><stop stop-color="#142643"/><stop offset=".65" stop-color="#204b7e"/><stop offset="1" stop-color="#326ba4"/></linearGradient>
+ <clipPath id="shape">
+  <path class="moving" d="M0 0H1120V220C784 252 481.59999999999997 198 0 222Z"><animate attributeName="d" dur="10s" repeatCount="indefinite" values="M0 0H1120V220C784 252 481.59999999999997 198 0 222Z;M0 0H1120V229C851.2 198 358.40000000000003 254 0 212Z;M0 0H1120V220C784 252 481.59999999999997 198 0 222Z" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/></path>
+  <path class="still" d="M0 0H1120V220C784 252 481.59999999999997 198 0 222Z"/>
+ </clipPath>
+</defs>
+<style>.still{display:none}@media(prefers-reduced-motion:reduce){.moving{display:none}.still{display:block}}</style>
+<g clip-path="url(#shape)">
+ <rect width="1120" height="260" fill="url(#field)"/>
+ <ellipse cx="1140" cy="-40" rx="440" ry="218" fill="#739ac9" opacity=".09"/>
+ <path d="M728 -30C694.4 70 896 80 1160 100" fill="none" stroke="#8bb3e1" stroke-opacity=".15" stroke-width="1.2"/>
+ <g class="moving">
+  <path fill="#4f85bb" opacity=".35" d="M0 207C369.6 178 716.8000000000001 246 1120 194V260H0Z"><animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 207C369.6 178 716.8000000000001 246 1120 194V260H0Z;M0 188C369.6 245 716.8000000000001 177 1120 213V260H0Z;M0 207C369.6 178 716.8000000000001 246 1120 194V260H0Z" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/></path>
+  <path fill="#80afe2" opacity=".18" d="M0 222C403.2 191 784 247 1120 209V260H0Z"><animate attributeName="d" dur="14s" repeatCount="indefinite" values="M0 222C403.2 191 784 247 1120 209V260H0Z;M0 206C403.2 242 784 184 1120 226V260H0Z;M0 222C403.2 191 784 247 1120 209V260H0Z" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/></path>
+ </g>
+ <text x="55" y="101" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">Daesan Jang</text>
+ <text x="56" y="145" fill="#d1e2f8" font-family="Arial,Helvetica,sans-serif" font-size="25">Backend Developer</text>
+ <text x="56" y="184" fill="#9ec4ef" font-family="Arial,Helvetica,sans-serif" font-size="16">Java / Spring Boot / AWS</text>
+</g>
+</svg>

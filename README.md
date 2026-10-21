@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="./assets/profile-v10/header-mobile.svg" />
-  <img src="./assets/profile-v10/header.svg" width="100%" alt="Daesan Jang — Backend Developer. Java, Spring Boot, AWS." />
+  <source media="(max-width: 600px)" srcset="./assets/profile-v11/header-mobile.svg" />
+  <img src="./assets/profile-v11/header.svg" width="100%" alt="Daesan Jang — Backend Developer. Java, Spring Boot, AWS." />
 </picture>
 
 <a href="https://velog.io/@diqkraud/posts"><img src="./assets/profile-v10/velog.svg" width="142" height="38" alt="Velog 기술 기록" /></a>
@@ -34,30 +34,32 @@
 
 <p>
   <strong>Language</strong><br />
-  <img src="./assets/profile-v10/java.svg" width="58" height="28" alt="Java" />
-  <img src="./assets/profile-v10/python.svg" width="77" height="28" alt="Python" />
+  <img src="./assets/profile-v11/java.svg" width="90" height="32" alt="Java" />
+  <img src="./assets/profile-v11/python.svg" width="106" height="32" alt="Python" />
 </p>
 
 <p>
   <strong>Backend</strong><br />
-  <img src="./assets/profile-v10/spring-boot.svg" width="110" height="28" alt="Spring Boot" />
-  <img src="./assets/profile-v10/jpa.svg" width="52" height="28" alt="JPA" />
-  <img src="./assets/profile-v10/django.svg" width="79" height="28" alt="Django" />
-  <img src="./assets/profile-v10/drf.svg" width="196" height="28" alt="Django REST Framework" />
+  <img src="./assets/profile-v11/spring-boot.svg" width="139" height="32" alt="Spring Boot" />
+  <img src="./assets/profile-v11/jpa.svg" width="61" height="32" alt="JPA" />
+  <img src="./assets/profile-v11/django.svg" width="106" height="32" alt="Django" />
+  <img src="./assets/profile-v11/drf.svg" width="251" height="32" alt="Django REST Framework" />
 </p>
 
 <p>
   <strong>Database</strong><br />
-  <img src="./assets/profile-v10/postgresql.svg" width="108" height="28" alt="PostgreSQL" />
-  <img src="./assets/profile-v10/mysql.svg" width="75" height="28" alt="MySQL" />
-  <img src="./assets/profile-v10/sql.svg" width="53" height="28" alt="SQL" />
-  <img src="./assets/profile-v10/flyway.svg" width="76" height="28" alt="Flyway" />
+  <img src="./assets/profile-v11/postgresql.svg" width="138" height="32" alt="PostgreSQL" />
+  <img src="./assets/profile-v11/mysql.svg" width="106" height="32" alt="MySQL" />
+  <img src="./assets/profile-v11/sql.svg" width="61" height="32" alt="SQL" />
+  <img src="./assets/profile-v11/flyway.svg" width="109" height="32" alt="Flyway" />
 </p>
 
 <p>
   <strong>Cloud / DevOps</strong><br />
-  <img src="./assets/profile-v10/aws.svg" width="58" height="28" alt="AWS" />
-  <img src="./assets/profile-v10/docker.svg" width="77" height="28" alt="Docker" />
-  <img src="./assets/profile-v10/jenkins.svg" width="81" height="28" alt="Jenkins" />
-  <img src="./assets/profile-v10/nginx.svg" width="70" height="28" alt="Nginx" />
+  <img src="./assets/profile-v11/aws.svg" width="92" height="32" alt="AWS" />
+  <img src="./assets/profile-v11/docker.svg" width="109" height="32" alt="Docker" />
+  <img src="./assets/profile-v11/jenkins.svg" width="115" height="32" alt="Jenkins" />
+  <img src="./assets/profile-v11/nginx.svg" width="103" height="32" alt="Nginx" />
 </p>
+
+<!-- Technology artwork: Devicon (MIT) and Simple Icons (CC0). License files: assets/profile-v11/. JPA and SQL are text badges, not substitute product logos. -->

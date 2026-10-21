@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="260" viewBox="0 0 680 260" role="img" aria-labelledby="title desc">
+<title id="title">Daesan Jang, Backend Developer</title>
+<desc id="desc">Java, Spring Boot, AWS. A custom blue header with a flowing lower edge.</desc>
+<defs>
+ <linearGradient id="field" x1="0" y1="0" x2="1" y2=".65"><stop stop-color="#142643"/><stop offset=".65" stop-color="#204b7e"/><stop offset="1" stop-color="#326ba4"/></linearGradient>
+ <clipPath id="shape">
+  <path class="moving" d="M0 0H680V220C475.99999999999994 252 292.4 198 0 222Z"><animate attributeName="d" dur="10s" repeatCount="indefinite" values="M0 0H680V220C475.99999999999994 252 292.4 198 0 222Z;M0 0H680V229C516.8 198 217.6 254 0 212Z;M0 0H680V220C475.99999999999994 252 292.4 198 0 222Z" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/></path>
+  <path class="still" d="M0 0H680V220C475.99999999999994 252 292.4 198 0 222Z"/>
+ </clipPath>
+</defs>
+<style>.still{display:none}@media(prefers-reduced-motion:reduce){.moving{display:none}.still{display:block}}</style>
+<g clip-path="url(#shape)">
+ <rect width="680" height="260" fill="url(#field)"/>
+ <ellipse cx="700" cy="-40" rx="240" ry="218" fill="#739ac9" opacity=".09"/>
+ <path d="M442 -30C421.6 70 544 80 720 100" fill="none" stroke="#8bb3e1" stroke-opacity=".15" stroke-width="1.2"/>
+ <g class="moving">
+  <path fill="#4f85bb" opacity=".35" d="M0 207C224.4 178 435.2 246 680 194V260H0Z"><animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 207C224.4 178 435.2 246 680 194V260H0Z;M0 188C224.4 245 435.2 177 680 213V260H0Z;M0 207C224.4 178 435.2 246 680 194V260H0Z" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/></path>
+  <path fill="#80afe2" opacity=".18" d="M0 222C244.79999999999998 191 475.99999999999994 247 680 209V260H0Z"><animate attributeName="d" dur="14s" repeatCount="indefinite" values="M0 222C244.79999999999998 191 475.99999999999994 247 680 209V260H0Z;M0 206C244.79999999999998 242 475.99999999999994 184 680 226V260H0Z;M0 222C244.79999999999998 191 475.99999999999994 247 680 209V260H0Z" calcMode="spline" keyTimes="0;.5;1" keySplines=".42 0 .58 1;.42 0 .58 1"/></path>
+ </g>
+ <text x="37" y="101" fill="#ffffff" font-family="Arial,Helvetica,sans-serif" font-size="54" font-weight="700" letter-spacing="-1.5">Daesan Jang</text>
+ <text x="38" y="145" fill="#d1e2f8" font-family="Arial,Helvetica,sans-serif" font-size="27">Backend Developer</text>
+ <text x="38" y="184" fill="#9ec4ef" font-family="Arial,Helvetica,sans-serif" font-size="20">Java / Spring Boot / AWS</text>
+</g>
+</svg>
