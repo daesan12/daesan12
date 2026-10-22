@@ -45,17 +45,14 @@
 
 <p>
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile-v15/familink-mobile.svg" />
-    <img src="./assets/profile-v15/familink.svg" alt="패밀링크(Familink): 가족의 일상 공유와 AI 안부 통화 서비스. 백엔드 및 인프라 담당." width="400" />
+    <source media="(max-width: 600px)" srcset="./assets/profile-v22/familink-mobile.png" />
+    <img src="./assets/profile-v22/familink.png" alt="패밀링크(Familink): 가족의 일상 공유와 AI 안부 통화 서비스. 백엔드 및 인프라 담당. 그룹과 피드 API, DB 제약 및 일일 적립 규칙 구현. S3 직접 업로드 API 구현과 모바일 연동 문제 수정. AWS 운영 환경과 Jenkins 배포 절차 구성." width="400" />
   </picture>
   <picture>
-    <source media="(max-width: 600px)" srcset="./assets/profile-v21/jaltashu-mobile.png" />
-    <img src="./assets/profile-v21/jaltashu.png" alt="잘타슈(JalTaShu): 대전 공공자전거 현황과 도착 시점 예측 서비스. 인프라 담당." width="400" />
+    <source media="(max-width: 600px)" srcset="./assets/profile-v22/jaltashu-mobile.png" />
+    <img src="./assets/profile-v22/jaltashu.png" alt="잘타슈(JalTaShu): 대전 공공자전거 현황과 도착 시점 예측 서비스. 인프라 담당. 팀 서비스와 데이터 처리 모듈의 실행 환경 구성. 승인형 Blue/Green 배포와 취소 후 후보 정리. Jenkins 자격증명 복구, MySQL 백업과 격리 복원 검증." width="400" />
   </picture>
 </p>
-
-- **패밀링크:** 그룹과 피드 API, DB 규칙, S3 직접 업로드 API를 구현하고 AWS 운영 환경과 Jenkins 배포 절차를 구성했습니다.
-- **잘타슈:** 팀 모듈의 실행 환경과 Blue/Green 배포를 구성하고, Jenkins 자격증명 복구와 MySQL 백업 및 격리 복원을 검증했습니다.
 
 #### Other Project
 
