@@ -44,19 +44,23 @@
 ### Projects
 
 <p>
+  <a href="https://github.com/daesan12/Familink#readme">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/profile-v22/familink-mobile.png" />
     <img src="./assets/profile-v22/familink.png" alt="패밀링크(Familink): 가족의 일상 공유와 AI 안부 통화 서비스. 백엔드 및 인프라 담당. 그룹과 피드 API, DB 제약 및 일일 적립 규칙 구현. S3 직접 업로드 API 구현과 모바일 연동 문제 수정. AWS 운영 환경과 Jenkins 배포 절차 구성." width="400" />
   </picture>
+  </a>
+  <a href="https://github.com/daesan12/JalTaShu#readme">
   <picture>
     <source media="(max-width: 600px)" srcset="./assets/profile-v22/jaltashu-mobile.png" />
     <img src="./assets/profile-v22/jaltashu.png" alt="잘타슈(JalTaShu): 대전 공공자전거 현황과 도착 시점 예측 서비스. 인프라 담당. 팀 서비스와 데이터 처리 모듈의 실행 환경 구성. 승인형 Blue/Green 배포와 취소 후 후보 정리. Jenkins 자격증명 복구, MySQL 백업과 격리 복원 검증." width="400" />
   </picture>
+  </a>
 </p>
 
 #### Other Project
 
-**[HealthFit](https://github.com/daesan12/healthfit-backend) — 개인 맞춤 식단·운동 관리 서비스**
+**[HealthFit](https://github.com/daesan12/healthfit-backend#readme) — 개인 맞춤 식단·운동 관리 서비스**
 
 사용자의 신체 정보와 목표에 맞는 식단·운동 루틴을 **AI로 추천**하고, 식단과 운동 기록을 관리·공유하는 서비스입니다.
 
